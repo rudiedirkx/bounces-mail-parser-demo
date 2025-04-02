@@ -2,7 +2,6 @@
     "name": "rdx/bounces",
     "type": "project",
     "require": {
-        "symfony/mime": "^7.2",
         "symfony/var-dumper": "^7.2",
         "php-mime-mail-parser/php-mime-mail-parser": "^9.0"
     },
