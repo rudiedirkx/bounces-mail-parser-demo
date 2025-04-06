@@ -4,7 +4,8 @@
     "require": {
         "ext-mailparse": "*",
         "symfony/var-dumper": "^7.2",
-        "php-mime-mail-parser/php-mime-mail-parser": "^9.0"
+        "php-mime-mail-parser/php-mime-mail-parser": "^9.0",
+        "zbateson/mail-mime-parser": "^3.0"
     },
     "authors": [
         {
